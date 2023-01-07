@@ -1,0 +1,3 @@
+# i-am-rich
+My first swift app :)
+And no, I'm not rich...
